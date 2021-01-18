@@ -299,7 +299,7 @@ button {
     display: block;
 }
 
-.picture-title {
+.services-name {
    
     width:370px;
     font-size: 14px;
@@ -602,7 +602,7 @@ footer h3 {
     cursor: pointer;
 
     transition: var(--animation-duration) var(--animation-timing-function);
-    transition-property: color background-color;
+    transition-property: color, fill;
 }
 
 .link-media:hover,
